@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+
+website:
+  title: "RC Coding Lounge Workshop (Spring 2023)"
+  search: false
+  navbar:
+    right:
+      - text: Home
+        file: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

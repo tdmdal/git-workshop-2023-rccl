@@ -1,0 +1,27 @@
+---
+title: "Git & GitHub Intro"
+---
+
+Git is a tool to help track changes to your code. GitHub is a Git-aware online repository that facilitates code sharing and collaboration. You can use Git and GitHub to organize your coding assignments, showcase your data science projects, or even manage your personal website. Knowing Git and GitHub will also look good on your resume.
+
+This workshop will help you get started with Git & GitHub. We will cover,
+
+- What’s Git & GitHub and why should you use them?
+- Simple Git & GitHub workflows and some hands-on practice (using GitHub Desktop)
+- How to build a personal blog site and host it on GitHub?
+
+
+------------------------------------------------------------------------
+
+-   [Workshop Slides](git_intro.pdf)
+-   Resources (GitHub Desktop)
+    -   [YouTube Tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=2s) by Coder Coder (22mins; great review for today's workshop)
+    -   GitHub Desktop [Official Document](https://docs.github.com/en/desktop)
+-   Resources (Git Command Line)
+    -   [Version Control with Git](http://swcarpentry.github.io/git-novice/) by Software Carpentry
+    -   [Getting Started Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository) from Bitbucket Atlassian
+    -   [Git command cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) from GitHub
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)

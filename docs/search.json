@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Git & GitHub Intro",
+    "section": "",
+    "text": "Git is a tool to help track changes to your code. GitHub is a Git-aware online repository that facilitates code sharing and collaboration. You can use Git and GitHub to organize your coding assignments, showcase your data science projects, or even manage your personal website. Knowing Git and GitHub will also look good on your resume.\nThis workshop will help you get started with Git & GitHub. We will cover,\n\nWhat’s Git & GitHub and why should you use them?\nSimple Git & GitHub workflows and some hands-on practice (using GitHub Desktop)\nHow to build a personal blog site and host it on GitHub?\n\n\n\nWorkshop Slides\nResources (GitHub Desktop)\n\nYouTube Tutorial by Coder Coder (22mins; great review for today’s workshop)\nGitHub Desktop Official Document\n\nResources (Git Command Line)\n\nVersion Control with Git by Software Carpentry\nGetting Started Tutorials from Bitbucket Atlassian\nGit command cheat sheet from GitHub\n\n\n\nBack to TDMDAL Computing Page"
+  }
+]
